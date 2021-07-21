@@ -10,6 +10,4 @@
     display: none;
 }
 
-[aria-posinset='3']{
-    display: none;
-}
+#private-channels [href="/store"] {display: none}
