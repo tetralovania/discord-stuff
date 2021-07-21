@@ -12,3 +12,12 @@
     left: calc(-20%) !important;
     -webkit-transform: translate(-50%, 0%) !important;
 }
+
+
+[aria-label='Servers']{ /*move server list right*/
+    margin-top: 50px;
+}
+
+.guildSeparator-33mFX6{ /*make guild separator invisible*/
+    background-color: #ffffff00 !important;
+}

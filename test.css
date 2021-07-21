@@ -9,3 +9,7 @@
 [aria-label='Open sticker picker']{ /*disable sticker picker button*/
     display: none;
 }
+
+[aria-posinset='3']{
+    display: none;
+}
