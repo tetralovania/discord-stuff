@@ -1,0 +1,14 @@
+.hide-sidebar-btn{
+    background-color: #ffffff00 !important;
+}
+
+.label-2wRs_g{ /*server counter*/
+    margin-left: 60px;
+    margin-right: 20px;
+    margin-top: -10px;
+}
+
+.friendsOnline-2JkivW{ /*online friend counter*/
+    left: calc(-20%) !important;
+    -webkit-transform: translate(-50%, 0%) !important;
+}
