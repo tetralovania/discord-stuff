@@ -1,6 +1,11 @@
-/*change mention color*/
-.numberBadge-2s8kKX {background-color: rgb(242,178,99) !important}
-
 [aria-label='Open GIF picker']{ /*disable gif picker button*/
+    display: none;
+}
+
+[aria-label='Send a gift']{ /*disable gift nitro button*/
+    display: none;
+}
+
+[aria-label='Open sticker picker']{ /*disable sticker picker button*/
     display: none;
 }
